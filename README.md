@@ -66,7 +66,7 @@ I enjoy transforming ideas into production-ready products using modern JavaScrip
 
 A full-featured blogging platform where users can create, publish, and manage content.
 
-**Tech:** Next.js, MongoDB, Node.js
+**Tech:** React, Next.js, MongoDB, Node.js
 
 🔗 Live Demo: https://blog-forge-seven.vercel.app
 
@@ -79,7 +79,7 @@ https://github.com/Muhammadsid2011/blog-forge
 
 Productivity application for organizing notes, ideas, and tasks.
 
-**Tech:** React, Node.js, MongoDB
+**Tech:** React, Nwxt.js, MongoDB
 
 🔗 Live Demo:
 https://notely-plum.vercel.app
@@ -93,7 +93,7 @@ https://github.com/Muhammadsid2011/Notely
 
 AI-powered salary prediction platform for engineers and IT professionals.
 
-**Tech:** Next.js, Gemini API, Tailwind CSS
+**Tech:** React, Next.js, Gemini API, Tailwind CSS
 
 🔗 Live Demo:
 https://build-worth-kohl.vercel.app
@@ -107,7 +107,7 @@ https://github.com/Muhammadsid2011/build-worth
 
 URL shortening platform with fast redirection and analytics-ready architecture.
 
-**Tech:** Node.js, MongoDB
+**Tech:** React, Next.js, MongoDB
 
 🔗 Live Demo:
 https://zip-link-pied.vercel.app
@@ -121,7 +121,7 @@ https://github.com/Muhammadsid2011/zip-link
 
 Secure password management application designed for storing credentials safely.
 
-**Tech:** React, Node.js, MongoDB
+**Tech:** React, Tailwindcss
 
 🔗 Live Demo:
 https://pass-fort-5dif.vercel.app
