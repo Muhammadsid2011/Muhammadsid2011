@@ -43,7 +43,7 @@ I enjoy transforming ideas into production-ready products using modern JavaScrip
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,ts,express,python,fastapi" />
 </p>
 
 ### Databases
